@@ -1,0 +1,3 @@
+use python 3
+
+run __main__.py path_to_fie.txt
